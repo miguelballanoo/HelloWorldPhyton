@@ -1,3 +1,4 @@
 # holaMundo.py
 
-print("Hola, mundo, soy Miguel")
+def suma(a, b):
+  return a + b
