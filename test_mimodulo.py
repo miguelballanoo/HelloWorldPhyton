@@ -1,7 +1,7 @@
 # test_mimodulo.py
 
 import pytest
-from mimodulo import suma
+from holaMundo import suma
 
 def test_suma_enteros():
     assert suma(2, 3) == 5
